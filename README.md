@@ -3,7 +3,7 @@
     &nbsp;
 </p>
 <p>
-    This Python script checks Bitcoin (BTC) wallets generated from 12, 15, 18, 21 &amp;amp; 24 word random seeds.&nbsp;<br>
+    This Python script checks Bitcoin (BTC) wallets generated from 12, 15, 18, 21 & 24 word random seeds.&nbsp;<br>
     Legacy, SegWit, Nested Segwit &amp; Taproot.
 </p>
 <p>
@@ -32,19 +32,19 @@
 </p>
 <ul>
     <li class="ck-list-marker-bold" data-list-item-id="e972f181eb1bfebdea6621073274287c9">
-        <strong>pro2word12.py &gt;&gt; For 12 words</strong>
+        <strong>bip39-checker-12.py &gt;&gt; For 12 words</strong>
     </li>
     <li class="ck-list-marker-bold" data-list-item-id="e4e14e49594f120bba2904e84cc66196e">
-        <strong>pro2word15.py &gt;&gt; For 15 words</strong>
+        <strong>bip39-checker-15.py &gt;&gt; For 15 words</strong>
     </li>
     <li class="ck-list-marker-bold" data-list-item-id="e5da1becf35a1ff0cbf9db247a107ac51">
-        <strong>pro2word18.py &gt;&gt; For 18 words</strong>
+        <strong>bip39-checker-18.py &gt;&gt; For 18 words</strong>
     </li>
     <li class="ck-list-marker-bold" data-list-item-id="ee59b58e8b20e39d23d86d1609da7c749">
-        <strong>pro2word21.py &gt;&gt; For 21 words</strong>
+        <strong>bip39-checker-21.py &gt;&gt; For 21 words</strong>
     </li>
     <li class="ck-list-marker-bold" data-list-item-id="ed5eb89be2e79fd121b9a73d961526984">
-        <strong>pro2word24.py &gt;&gt; For 24 words</strong>
+        <strong>bip39-checker-24.py &gt;&gt; For 24 words</strong>
     </li>
 </ul>
 <p>
